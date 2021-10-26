@@ -1,5 +1,5 @@
 # Shopee_Phone_EDA
 Here is my final project. It's still updating.
-Please wait.
+Please wait,
 
 Thank you so much
