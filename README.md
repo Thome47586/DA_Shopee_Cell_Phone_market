@@ -1,4 +1,4 @@
-# Data Analysis of cell phone market on Shopee Vietnam, e-commerce platform
+# Data Analysis of cell phone market on Shopee Vietnam
 
 ## Purpose and technique to be used:
 Build a full pipeline include:
